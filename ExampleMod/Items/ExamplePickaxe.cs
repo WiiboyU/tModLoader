@@ -16,7 +16,7 @@ namespace ExampleMod.Items
 			item.melee = true;
 			item.width = 40;
 			item.height = 40;
-			item.useTime = 10;
+			item.useTime = 12;
 			item.useAnimation = 10;
 			item.pick = 220;
 			item.useStyle = 1;
